@@ -29,18 +29,18 @@
         <h1 class="font-white"> Popular products</h1>
     
     </div>
-    <div class="row-25 bg-white"   >
+    <div class="row-25 bg-white">
         <a href="products.php"><img  class="tiles" src="images/cocacola.jpg"></a>
     </div>
     
-    <div class="row-25 bg-white"   >
+    <div class="row-25 bg-white">
         <a href="products.php"><img  class="tiles" src="images/fanta.jpg"></a>
     </div>
     
-    <div class="row-25 bg-white"   >
+    <div class="row-25 bg-white">
         <a href="products.php"><img  class="tiles" src="images/7up.png"></a>
     </div>
-    <div class="row-25 bg-white"   >
+    <div class="row-25 bg-white">
         <a href="products.php"><img class="tiles" src="images/sprite.jpg"></a>
     </div>
         
